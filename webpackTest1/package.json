@@ -1,0 +1,16 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "webpack入坑",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liao",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.27.3",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.2.1"
+  }
+}
