@@ -8,9 +8,11 @@
       <!-- 使用 router-link 组件来导航 -->
       <!-- 通过传入 'to' 属性来指定连接 -->
       <!-- <router-link>默认会被渲染成一个'<a>' 标签 -->
-      <router-link to="/first">Go to first son page</router-link>
-      <router-link to="/second">Go to second son page</router-link>
-      <router-link to="/third">Go to third son page</router-link>
+      <router-link to="/first">Go to first son page</router-link><br>
+      <router-link to="/second">Go to second son page</router-link><br>
+      <router-link to="/third">Go to third son page</router-link><br>
+      <router-link to="/user/fourth">Go to fourth son page</router-link><br>
+      <router-link to="/user/fifth">Go to fifth son page</router-link><br>
     </p>
     <!-- 路由出口 -->
     <!-- 路由匹配到的组件将渲染在这里 -->
